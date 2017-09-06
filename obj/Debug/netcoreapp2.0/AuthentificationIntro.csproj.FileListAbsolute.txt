@@ -1,0 +1,12 @@
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/bin/Debug/netcoreapp2.0/app.db
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/bin/Debug/netcoreapp2.0/AuthentificationIntro.deps.json
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/bin/Debug/netcoreapp2.0/AuthentificationIntro.runtimeconfig.json
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/bin/Debug/netcoreapp2.0/AuthentificationIntro.runtimeconfig.dev.json
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/bin/Debug/netcoreapp2.0/AuthentificationIntro.dll
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/bin/Debug/netcoreapp2.0/AuthentificationIntro.pdb
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/obj/Debug/netcoreapp2.0/AuthentificationIntro.csproj.CoreCompileInputs.cache
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/obj/Debug/netcoreapp2.0/AuthentificationIntro.AssemblyInfoInputs.cache
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/obj/Debug/netcoreapp2.0/AuthentificationIntro.AssemblyInfo.cs
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/obj/Debug/netcoreapp2.0/AuthentificationIntro.dll
+/Users/yanawilkins/Documents/dotnet/AuthentificationIntro/obj/Debug/netcoreapp2.0/AuthentificationIntro.pdb

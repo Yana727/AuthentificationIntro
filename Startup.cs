@@ -37,9 +37,6 @@ namespace AuthentificationIntro
             services.AddTransient<IEmailSender, EmailSender>();
 
             services.AddMvc();
-
-            services.AddDbContext<Authdb>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("Authdb")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
